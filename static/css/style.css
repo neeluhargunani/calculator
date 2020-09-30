@@ -32,15 +32,13 @@ overflow: hidden;
   -webkit-box-shadow: 0px 5px 12px 3px #2196f312;
   -moz-box-shadow: 0px 5px 12px 3px #2196f312;
   }
-
-.card-body{ padding: 1rem;}
 .list-group-item {
 border: 0px solid rgb(0 0 0 / 0%) !important;
 border-bottom: 3px solid #7a87ca14!important;
     border-top: 0;
     border-left: 0;
     border-right: 0;
-    padding: 0;
+    padding: 5px;;
 }
 .crd{
 background-color:#1f499eeb;
